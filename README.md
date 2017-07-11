@@ -1,4 +1,4 @@
-MTO Training Request
+MTO Training Request - http://www.micropurchase.ca:3000/auctions/15
 
 Bidders are reminded that the submission deadline for this auction is: July 20, 2017 01:00:00 PM EDT
 
@@ -6,4 +6,5 @@ All bidders can ask questions by createing a new Issue. All issues will be respo
 
 If you have any questions regarding this auction please contact us at help@micropurchase.ca 
 Thank you. 
+
 The Micropurchase Bid Support Team 
